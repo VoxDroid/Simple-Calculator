@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-  <img width="1280px" src="#">
+  <img width="1280px" src="https://raw.githubusercontent.com/VoxDroid/Simple-Calculator/master/logo.png">
 </div>
 <br/>
 
