@@ -1,4 +1,4 @@
-<h1 align="center">Drei Calculator</h1>
+<h1 align="center">A Simple Calculator</h1>
 
 <p align="center">
 🦾 Your Simple Calculator 🦾
