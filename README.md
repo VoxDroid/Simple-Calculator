@@ -28,10 +28,10 @@
 
 Just a simple calculator
 
-## Demo Images
+## Demo Image(s)
 
 <br/>
 <div align="center">
-  <img src="#">
+  <img src="https://raw.githubusercontent.com/VoxDroid/Simple-Calculator/master/Demo%20Images/DemoImage.png">
 </div>
 <br/>
