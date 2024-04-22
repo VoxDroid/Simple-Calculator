@@ -157,8 +157,6 @@ class MainActivity : AppCompatActivity() {
 
             tvInput.text = formattedResult
 
-            videoView.visibility = View.GONE
-
             operand1 = result
 
             resetState()
@@ -177,15 +175,6 @@ class MainActivity : AppCompatActivity() {
         tvOldInput.text = ""
         tvInput.text = "0"
         tvCurrentOperand.text = ""
-
-        stopVideo()
-    }
-
-    private fun stopVideo() {
-        if (videoView.isPlaying) {
-            videoView.stopPlayback()
-            videoView.visibility = View.GONE
-        }
     }
 
     private fun clearInput() {
